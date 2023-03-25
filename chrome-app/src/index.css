@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.show-word {
+  display: block;
+  position: fixed;
+  top: 100px;
+  right: 100px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  z-index: 999999;
+  background-color: white;
+}        
+
+.card-name {
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.card-meaning {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.card-example {
+  font-style: italic;
+}
