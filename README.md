@@ -1,5 +1,5 @@
 # README   
-- [使用 React 开发 Chrome Extension](https://qileq.com/article/202303190001/)      
+开发过程参考 [使用 React 开发 Chrome Extension](https://qileq.com/167/)。
 
 ## 使用  
 在 `chrome-app` 目录下执行如下命令：  
