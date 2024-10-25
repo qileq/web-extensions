@@ -8,3 +8,6 @@ npm i
 npm run build
 ```
 将生成的 build 文件加载到 Chrome 扩展程序中即可。
+
+## 其他文章
+1. [ERR_BLOCKED_BY_CLIENT 的解决方法](https://qileq.com/169/)
